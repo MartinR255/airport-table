@@ -1,0 +1,8 @@
+17:45;Milan MXP;Ryanair;F10;FR214
+19:30;Rome FCO;Ryanair;F36;FR7191
+13:15;London STN;Ryanair;G21;FR7364
+09:05;Stuttgart;Austrian;F03;OS187
+06:45;Warsaw;Austrian;F06;OS631
+17:50;Milan MXP;Austrian;F09;OS515
+20:50;Zurich;Austrian;F26;OS565
+15:10;Istanbul ISL;Turkish Airlines;F11;TK6387
